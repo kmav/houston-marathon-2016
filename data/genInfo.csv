@@ -1,0 +1,2 @@
+AlertStatus,temperature,windSpeed,windDirection,humidity,runnersOnCourse,runnersFinished,hospitalTransports,patientsSeen,Alert,emergencyCheck,AlertLat,AlertLong,shelterDisplay
+0,30,25,"W",85,2147483647,0,0,0,"",0,10.1,10.1,1
